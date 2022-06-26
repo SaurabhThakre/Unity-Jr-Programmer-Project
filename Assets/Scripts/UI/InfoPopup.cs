@@ -26,4 +26,5 @@ public class InfoPopup : MonoBehaviour
         newEntry.Count.text = count.ToString();
         newEntry.Icone.sprite = Icone;
     }
+
 }
